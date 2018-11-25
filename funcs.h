@@ -1,14 +1,11 @@
-// заголовочный файл funcs.h  
+//Hi! 
 
-#ifndef __FUNCS_H__
 #define __FUNCS_H__  
 
 double MySum(double, double);
 double MySub(double, double);
-<<<<<<< HEAD
 double MyDiv(double , double)
-=======
 double MyMul(double, double);
-int MyPow(int, int);
->>>>>>> testing
+double MyPow(double, double);
+
 #endif // __FUNCS_H__
